@@ -8,3 +8,13 @@ C:\Users\vando\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.exe
 C:\Users\vando\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
 C:\Users\vando\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.Client.resources
 C:\Users\vando\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.Client.resources
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\comp16\Documents\GitHub\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
