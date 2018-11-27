@@ -21,7 +21,7 @@ namespace SocketClient
         {
             tcpClient = new TcpClient();
             setMsg("## Estabelecendo conexão...");
-            tcpClient.Connect("172.23.8.117", 8000); //IP DO SERVER
+            tcpClient.Connect("172.23.16.121", 8000); //IP DO SERVER
         }
 
         private void Disconnect()
